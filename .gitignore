@@ -1,0 +1,5 @@
+node_modules/
+.env
+dayline.db
+dayline.db-shm
+dayline.db-wal
